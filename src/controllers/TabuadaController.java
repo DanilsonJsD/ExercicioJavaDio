@@ -1,9 +1,9 @@
-package controller;
+package controllers;
 
 import java.util.List;
 
-import model.Tabuada;
-import service.TabuadaService;
+import models.Tabuada;
+import services.TabuadaService;
 
 public class TabuadaController {
 	private final TabuadaService service; 
